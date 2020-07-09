@@ -19,7 +19,7 @@ html{
     scroll-behavior: smooth;
 }
 body {
-    font-family: regular;
+    font-family: 'Roboto', sans-serif;
     background: #191919;
     color: white;
     display: flex;

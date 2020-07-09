@@ -4,18 +4,7 @@
     box-sizing: border-box;
     line-height: 1.6;
 }
-@font-face {
-    font-family: joker;
-    src: url(/fonts/Jokerman-Regular.ttf);
-}
-@font-face {
-    font-family: regular;
-    src: url(/fonts/SF-Regular.ttf);
-}
-@font-face {
-    font-family: semibold;
-    src: url(/fonts/SF-Semibold.ttf);
-}
+
 ::-webkit-scrollbar{
     width:12px
 }

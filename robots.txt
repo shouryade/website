@@ -1,4 +1,5 @@
 User-agent: kikanium
-Disallow: 
+Disallow:
+
 User-agent: *
 Disallow: /
